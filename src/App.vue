@@ -50,10 +50,12 @@ export default {
 
     const images = ref([
       'https://lh4.googleusercontent.com/7NGiuwUO2K1TN3zmO1hKwZEP7mc2VWiVJWycJunpwCRsakqvI3o3RePY1487vPK0o1IJLy4SXpd54evLEpw7uNEMxYWga29dDjOsJdZkETFJgfNeJUgk-Bz5ZCzF4Uz_Fw=w992',
-      'https://lh4.googleusercontent.com/7NGiuwUO2K1TN3zmO1hKwZEP7mc2VWiVJWycJunpwCRsakqvI3o3RePY1487vPK0o1IJLy4SXpd54evLEpw7uNEMxYWga29dDjOsJdZkETFJgfNeJUgk-Bz5ZCzF4Uz_Fw=w992',
-      'https://lh4.googleusercontent.com/7NGiuwUO2K1TN3zmO1hKwZEP7mc2VWiVJWycJunpwCRsakqvI3o3RePY1487vPK0o1IJLy4SXpd54evLEpw7uNEMxYWga29dDjOsJdZkETFJgfNeJUgk-Bz5ZCzF4Uz_Fw=w992',
-      'https://lh4.googleusercontent.com/7NGiuwUO2K1TN3zmO1hKwZEP7mc2VWiVJWycJunpwCRsakqvI3o3RePY1487vPK0o1IJLy4SXpd54evLEpw7uNEMxYWga29dDjOsJdZkETFJgfNeJUgk-Bz5ZCzF4Uz_Fw=w992',
-      'https://lh4.googleusercontent.com/7NGiuwUO2K1TN3zmO1hKwZEP7mc2VWiVJWycJunpwCRsakqvI3o3RePY1487vPK0o1IJLy4SXpd54evLEpw7uNEMxYWga29dDjOsJdZkETFJgfNeJUgk-Bz5ZCzF4Uz_Fw=w992',
+      './images/1.jpg',
+      './images/2.jpg',
+      './images/3.jpg',
+      './images/4.jpg',
+      './images/5.jpg',
+      './images/6.jpg',
     ])
 
     const openTab = (url)=>{
